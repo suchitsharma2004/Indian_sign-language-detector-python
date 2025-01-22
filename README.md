@@ -1,5 +1,5 @@
 <h2 align="center">
-Indian Sign Language Detection in Real Time 🖐️
+SignSetu
 </h2> 
 
 This project focuses on creating a real-time Indian Sign Language (ISL) detection system using MediaPipe, OpenCV, and Python. The system interprets hand gestures to facilitate communication, aiming to bridge the gap between the hearing and speech-impaired community and the rest of the world.
